@@ -1,2 +1,2 @@
-for i in range(999):
+while 0 == 0:
     print('Daniel Araújo')
